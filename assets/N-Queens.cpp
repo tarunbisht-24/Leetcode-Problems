@@ -14,13 +14,10 @@ public:
 		    // checking if there is a queen in the same diagonal (left to right)
 		    if(row - i >= 0 && col - i >= 0 && board[row - i][col - i] == 'Q') return false;
 		    if(row - i >= 0 && col + i <  n && board[row - i][col + i] == 'Q') return false;
-		    // No need to traverse more since the lower rows below current row attribute will always be safe.
-			/* if(row + i <  n && col - i >= 0 && board[row + i][col - i] == 'Q') return false;
-			if(row + i <  n && col + i <  n && board[row + i][col + i] == 'Q') return false; */
 	    }
 	    return true;
     }
-    // Recursive Function (solve) - It basically tries all possible placement of queen for the current row & recurses for it's next row
+
     void solve(vector<string>& board, int row) {
 	// Base condition. 
     // We reached the last row, so we have a solution so we add it to the solution vector
