@@ -23,8 +23,7 @@ public:
 		    sols.push_back(board);
 		    return;
     	}            
-	    // Try placing a queen on each column for a given row. 
-        // Explore next row by placing Q at each valid column for the current row
+	    
 	    for(int col = 0; col < size(board); col++){
 		    if(isSafe(board, row, col)) {
 			    board[row][col] = 'Q';    // Queen placed on a valid cell
