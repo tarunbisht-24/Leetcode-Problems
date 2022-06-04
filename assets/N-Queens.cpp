@@ -19,8 +19,6 @@ public:
     }
 
     void solve(vector<string>& board, int row) {
-	// Base condition. 
-    // We reached the last row, so we have a solution so we add it to the solution vector
 	    if(row == size(board)) { 
 		    sols.push_back(board);
 		    return;
