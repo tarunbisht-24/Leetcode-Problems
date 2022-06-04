@@ -26,9 +26,9 @@ public:
 	    
 	    for(int col = 0; col < size(board); col++){
 		    if(isSafe(board, row, col)) {
-			    board[row][col] = 'Q';    // Queen placed on a valid cell
-			    solve(board, row + 1);    // Exploring next row
-			    board[row][col] = '.';    // Backtracking to get all possible solutions
+			    board[row][col] = 'Q';    
+			    solve(board, row + 1);    
+			    board[row][col] = '.';    
 		    }
         }
     }
