@@ -32,11 +32,11 @@ For the icon link refer to the table below to obtain the link for a specific pro
 
 | Programming Language |                                      Icon                                      |                               Icon Link                               |
 |:--------------------:|:------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|         Java         |           ![Java](https://img.icons8.com/color/35/000000/java.png)             |  https://img.icons8.com/color/35/000000/java-logo.png                          |
-|        Python        |   ![Python](https://img.icons8.com/color/35/000000/python-.png)                |   https://img.icons8.com/color/35/000000/python-logo.png                          |
+|         Java         |           ![Java](https://img.icons8.com/color/35/000000/java.png)             |    https://img.icons8.com/color/35/000000/java.png                                |
+|        Python        |   ![Python](https://img.icons8.com/color/35/000000/python.png)                |     https://img.icons8.com/color/35/000000/python.png                              |
 |          C           |         ![C](https://img.icons8.com/color/35/000000/c-programming.png)         |        https://img.icons8.com/color/35/000000/c-programming.png        |
 |         C++          |      ![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)       |      https://img.icons8.com/color/35/000000/c-plus-plus-logo.png      |
-|          C#          |         ![C#](https://img.icons8.com/color/35/000000/c-sharp-logo.png)         |        https://img.icons8.com/color/35/000000/c-sharp-logo.png        |
+|          C#          |         ![C#](https://img.icons8.com/color/35/000000/c-sharp-logo.png)         |  https://img.icons8.com/color/35/000000/c-sharp-logo.png    |
 |      JavaScript      |      ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)      |      https://img.icons8.com/color/40/000000/javascript.png         |
 |      TypeScript      |      ![TypeScript](https://img.icons8.com/color/40/000000/typescript.png)      |      https://img.icons8.com/color/40/000000/typescript.png         |
 |         Ruby         | ![Ruby](https://img.icons8.com/office/35/000000/ruby-programming-language.png) | https://img.icons8.com/office/35/000000/ruby-programming-language.png |
