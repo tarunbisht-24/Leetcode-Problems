@@ -1,4 +1,4 @@
-![](/Readme/Leetcode.png)
+<!--![](/Readme/Leetcode.png)
 # May_LeetCoding_Challenge
 This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 31 daily problems over the month of May. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
@@ -46,13 +46,13 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-11-1f425f.svg)
 ![problems-solved-C++](https://img.shields.io/badge/C++-11-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Competitive-programming)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Competitive-programming)-->
 
 
 ## Problems
 |  #   | Name                                                                                                                                                      |                                                                                       Solution                                                                                       |                                                              Youtube                                                              |
 |:----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-|  1   | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                                          |                                            [![Java](assets/java.png)](src/TwoSum.java) [![Python](assets/python.png)](python/two_sum.py)                                             | [![java-yt](assets/java-yt.png)](https://youtu.be/9wSL_7NN-A8) [![python-yt](assets/python-yt.png)](https://youtu.be/N5FXCTg0TDE) |
+|  1   | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                         |                                            [![C++](assets/C++.png)](src/June-2022/1480. Running Sum of 1d Array.cpp)                                                                      |            [![python-yt](assets/python-yt.png)](https://youtu.be/N5FXCTg0TDE)                                     |
 |  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                                                          |                                                                  [![Java](assets/java.png)](src/AddTwoNumbers.java)                                                                  |                                                                                                                                   |
 |  3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)                            |                                                   [![Java](assets/java.png)](src/LongestSubstringWithoutRepeatingCharacters.java)                                                    |                                                                                                                                   |
 |  5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                                              |                                                           [![Java](assets/java.png)](src/LongestPalindromicSubstring.java)                                                           |                                                                                                                                   |
