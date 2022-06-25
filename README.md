@@ -34,8 +34,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-24-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-24-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-25-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-25-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
