@@ -34,14 +34,14 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-25-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-25-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-26-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-26-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
 
 ## Problems
-|  #   | June-2022                                                                                                                                                      |                                                                                       Solution                                                                                       |                                                              Youtube                                                              |      
+|  #   | May-2022                                                                                                                                                      |                                                                                       Solution                                                                                       |                                                              Youtube                                                              |      
 |:----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|            
 |  1   | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                         |                                            [![C++](assets/C++.png)](src/huh.cpp)                                                                                                    | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=XbFzOlfDUUc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=15)   |
 |  2   | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                                                                       |                                            [![C++](assets/C++.png)](./June-2022/867. Transpose Matrix.cpp)                                                                          |  [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)  |             
