@@ -41,6 +41,11 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 
 ## Problems
+
+| # | Title | Solution | Tags |  Youtube  |
+|---| ----- | -------- | ---- | --------- |
+977 | [E - Equal Tree Sums](https://codeforces.com/contest/1656/problem/E) | [GNU C++17 (64)](./src/June-2022/1048. Longest String Chain.cpp) | `constructive algorithms` `dfs and similar` `trees` | Mar/27/2022 12:15 |
+
 |  #   | May-2022                                                                                                                                                      |                                                                                       Solution                                                                                       |                                                              Youtube                                                              |      
 |:----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|            
 |  1   | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                         |                                            [![C++](assets/C++.png)](src/huh.cpp)                                                                                                    | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=XbFzOlfDUUc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=15)   |
