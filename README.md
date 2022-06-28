@@ -69,15 +69,6 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 23 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [![C++](assets/C++.png)](src/huh.cpp) | `array` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=DjOU6ohtJ7o&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 24 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [![C++](assets/C++.png)](src/huh.cpp) | `array` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=6lAzjh2lWxQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 25 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [![C++](assets/C++.png)](src/huh.cpp) | `array` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=4Vu4deQJDUc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-26 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [![C++](assets/C++.png)](src/huh.cpp) | `array` `sliding window` prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_-wTHTPdctA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=3)
-
-
-
-
-
-
-
-
-
-
-
+26 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [![C++](assets/C++.png)](src/huh.cpp) | `array` `sliding window` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_-wTHTPdctA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=3)
+27 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [![C++](assets/C++.png)](src/huh.cpp) | `string` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=zIyhKenHbvs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+28 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [![C++](assets/C++.png)](src/huh.cpp) | `string` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
