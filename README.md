@@ -1,4 +1,4 @@
-<!--![](/Readme/Leetcode.png)-->
+![](assets/LeetCode.png)
 # LeetCode_Challenge
 This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 30-31 daily problems depends on the month type. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
@@ -44,8 +44,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 <h1 align = "center">May-2022</h1>
 
-| # | May-2022 | Solution | Tags |  Youtube  |
-|---| ---------| -------- | ---- | --------- |
+| # | Title | Solution | Tags |  Youtube  |
+|---| ------| -------- | ---- | --------- |
 1 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [![C++](assets/C++.png)](src/may.json) | `two pointers` `string` `stack` `simulation` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=I5kBbAtUOuw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=59)
 2 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=d_IP1cWghZM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=58)
 3 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `stack` `greedy` `sorting` `monotonic stack` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=w5bnbzkmh0o&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=57)
@@ -81,8 +81,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 <br>
 <h1 align = "center">June-2022</h1>
 
-| # | June-2022 | Solution | Tags |  Youtube  |
-|---| --------- | -------- | ---- | --------- |
+| # | Title | Solution | Tags |  Youtube  |
+|---| ----- | -------- | ---- | --------- |
 1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
 2 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [![C++](assets/C++.png)](src/june.json) | `array` `matrix` `simulation` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
 3 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [![C++](assets/C++.png)](src/june.json) | `array` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=dHeTaGwvsxk&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=13)
@@ -112,4 +112,4 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 27 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [![C++](assets/C++.png)](src/june.json) | `string` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=zIyhKenHbvs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 28 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [![C++](assets/C++.png)](src/june.json) | `string` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 29 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [![C++](assets/C++.png)](src/june.json) | `array` `greedy` `binary indexed tree` `segment tree` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-30 | [abc](idkbruh) | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+30 | []() | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
