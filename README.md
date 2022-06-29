@@ -76,7 +76,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 30 | [abc](idkbruh) | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 
 <br>
-<h1 text-align = "center">June-2002</h1>
+<h1 align = "center">June-2022</h1>
+
 | # | June-2022 | Solution | Tags |  Youtube  |
 |---| --------- | -------- | ---- | --------- |
 1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
