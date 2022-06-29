@@ -2,16 +2,12 @@
 # LeetCode_Challenge
 This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 30-31 daily problems depends on the month type. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
-<!--![](/Readme/MayLeetcodeChallenge.png)-->
-
 In this LeetCode Challenge, we challenge participants with a problem from our carefully curated collection of interview problems every 24 hours. All users with all levels of coding background are welcome to join!
-
 
 📌 When is June's LeetCoding Challenge?
 Start: June 1st, 12:00 AM in Pacific Time (UTC-7)
 
 End: June 30th, 23:59 PM in Pacific Time (UTC-7)
-
 
 🚩 How do I join May's LeetCoding Challenge?
 
