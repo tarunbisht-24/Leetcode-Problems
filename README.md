@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-29-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-29-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-61-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-61-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -109,5 +109,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 26 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [![C++](assets/C++.png)](src/june.json) | `array` `sliding window` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_-wTHTPdctA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=3)
 27 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [![C++](assets/C++.png)](src/june.json) | `string` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=zIyhKenHbvs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 28 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [![C++](assets/C++.png)](src/june.json) | `string` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
-29 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [![C++](assets/C++.png)](src/june.json) | `array` `greedy` `binary indexed tree` `segment tree` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-30 | []() | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+29 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [![C++](assets/C++.png)](src/june.json) | `array` `greedy` `binary indexed tree` `segment tree` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=K4xFXoqakfA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+30 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=SfbWks5zetA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
