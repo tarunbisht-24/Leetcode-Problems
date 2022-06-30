@@ -4,6 +4,8 @@ This Challenge is beginner-friendly and available to both Premium and non-Premiu
 
 In this LeetCode Challenge, we challenge participants with a problem from our carefully curated collection of interview problems every 24 hours. All users with all levels of coding background are welcome to join!
 
+<br>
+
 📌 When is June's LeetCoding Challenge?
 Start: June 1st, 12:00 AM in Pacific Time (UTC-7)
 
@@ -50,12 +52,12 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 6 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [![C++](assets/C++.png)](src/may.json) | `string` `stack` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=BtjDahT-LMQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=55)
 7 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [![C++](assets/C++.png)](src/may.json) | `array` `binary search` `stack` `monotonic stack` `ordered set` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=y0adBCWCHTI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=54)
 8 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [![C++](assets/C++.png)](src/may.json) | `stack` `tree` `depth-first search` `design` `queue` `iterator` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=MNdAkibFWXE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=53)
-9 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-10 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-11 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-12 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-13 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-14 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+9 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [![C++](assets/C++.png)](src/may.json) | `hash table` `string` `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+10 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [![C++](assets/C++.png)](src/may.json) | `array` `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+11 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [![C++](assets/C++.png)](src/may.json) | `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+12 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [![C++](assets/C++.png)](src/may.json) | `array` `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+13 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [![C++](assets/C++.png)](src/may.json) | `linked list` `tree` `depth-first search` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+14 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [![C++](assets/C++.png)](src/may.json) | `depth-first search` `breadth-first search` `graph` `heap(priority queue)` `shortest path` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
 15 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
 16 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
 17 | []() | [![C++](assets/C++.png)](src/may.json) | `array` `two pointers` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=VgulnDQLbVI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
