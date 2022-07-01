@@ -113,8 +113,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 30 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=SfbWks5zetA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 
 <br>
-<h1 align = "center">June-2022</h1>
+<h1 align = "center">July-2022</h1>
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
+1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.json) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
