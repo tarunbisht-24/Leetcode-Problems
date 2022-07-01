@@ -6,7 +6,7 @@ In this LeetCode Challenge, we challenge participants with a problem from our ca
 
 <br>
 
-📌 When is June's LeetCoding Challenge?
+📌 When is July's LeetCoding Challenge?
 Start: June 1st, 12:00 AM in Pacific Time (UTC-7)
 
 End: June 30th, 23:59 PM in Pacific Time (UTC-7)
@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-61-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-61-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-62-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-62-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -111,3 +111,10 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 28 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [![C++](assets/C++.png)](src/june.json) | `string` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=FPtRFltePjE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 29 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [![C++](assets/C++.png)](src/june.json) | `array` `greedy` `binary indexed tree` `segment tree` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=K4xFXoqakfA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 30 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [![C++](assets/C++.png)](src/june.json) | `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=SfbWks5zetA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+
+<br>
+<h1 align = "center">June-2022</h1>
+
+| # | Title | Solution | Tags |  Youtube  |
+|---| ----- | -------- | ---- | --------- |
+1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
