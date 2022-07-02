@@ -117,4 +117,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.json) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.json) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+2 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [![C++](assets/C++.png)](src/july.json) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=U7ZJ2YuMKqc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
