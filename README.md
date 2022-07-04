@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-64-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-64-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-65-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-65-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -121,3 +121,4 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 2 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [![C++](assets/C++.png)](src/july.json) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=U7ZJ2YuMKqc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 3 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)| [![C++](assets/C++.png)](src/july.json) | `array` `dynamic programming` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=gOMx2pHFOuY&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 4 | [Candy](https://leetcode.com/problems/candy/)| [![C++](assets/C++.png)](src/july.json) | `array` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2hA7teuyvUU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+5 | []()| [![C++](assets/C++.png)](src/july.json) | `array` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2hA7teuyvUU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
