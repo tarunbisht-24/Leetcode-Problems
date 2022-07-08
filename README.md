@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-68-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-68-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-69-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-69-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -81,11 +81,11 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=XbFzOlfDUUc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=32)
-2 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [![C++](assets/C++.png)](src/june.json) | `array` `matrix` `simulation` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
-3 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [![C++](assets/C++.png)](src/june.json) | `array` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=dHeTaGwvsxk&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=13)
-4 | [N-Queens](https://leetcode.com/problems/n-queens/) | [![C++](assets/C++.png)](src/june.json) | `array` `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5GPrkopyilI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
-5 | [N-Queens-II](https://leetcode.com/problems/n-queens-ii/) | [![C++](assets/C++.png)](src/june.json) | `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=RGRrXoWsOjs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=23)
+1 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [![C++](assets/C++.png)](src/june.md) | `array` `prefix sum` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=XbFzOlfDUUc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=32)
+2 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [![C++](assets/C++.png)](src/june.md) | `array` `matrix` `simulation` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=_AzncuHRxgA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=14)
+3 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [![C++](assets/C++.png)](src/june.md) | `array` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=dHeTaGwvsxk&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=13)
+4 | [N-Queens](https://leetcode.com/problems/n-queens/) | [![C++](assets/C++.png)](src/june.md) | `array` `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5GPrkopyilI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=12)
+5 | [N-Queens-II](https://leetcode.com/problems/n-queens-ii/) | [![C++](assets/C++.png)](src/june.md) | `backtracking` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=RGRrXoWsOjs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=23)
 6 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [![C++](assets/C++.png)](src/june.json) | `hash table` `linked list` `two pointers` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=u0TuFzgncfs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=22)
 7 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [![C++](assets/C++.png)](src/june.json) | `array` `two pointers` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=g1jh0rjna_o&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=21)
 8 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [![C++](assets/C++.png)](src/june.json) | `two pointers` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=1M6GlJ9B9p4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=13)
