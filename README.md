@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-69-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-69-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-70-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-70-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -117,13 +117,13 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
-2 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=U7ZJ2YuMKqc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-3 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=gOMx2pHFOuY&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-4 | [Candy](https://leetcode.com/problems/candy/)| [![C++](assets/C++.png)](src/july.md) | `array` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2hA7teuyvUU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-5 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `union find` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=CPzUOvBv3Vs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-6 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [![C++](assets/C++.png)](src/july.md) | `math` `dynamic programming` `recursion` `memoization` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=DobpPmTolOQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-7 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| [![C++](assets/C++.png)](src/july.md) | `string` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-8 | [Paint House III](https://leetcode.com/problems/paint-house-iii/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2J4tkJ7v3r4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-8 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `queue` `sliding window` `heap(priority queue)` `monotonic queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-9 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=9)
+2 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=U7ZJ2YuMKqc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=8)
+3 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=gOMx2pHFOuY&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=7)
+4 | [Candy](https://leetcode.com/problems/candy/)| [![C++](assets/C++.png)](src/july.md) | `array` `greedy` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2hA7teuyvUU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=6)
+5 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `union find` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=CPzUOvBv3Vs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=5)
+6 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [![C++](assets/C++.png)](src/july.md) | `math` `dynamic programming` `recursion` `memoization` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=DobpPmTolOQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=4)
+7 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| [![C++](assets/C++.png)](src/july.md) | `string` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=3)
+8 | [Paint House III](https://leetcode.com/problems/paint-house-iii/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2J4tkJ7v3r4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+9 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `queue` `sliding window` `heap(priority queue)` `monotonic queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=us1cSqg6rFE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+10 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
