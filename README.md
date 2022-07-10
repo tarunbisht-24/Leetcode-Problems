@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-70-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-70-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-71-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-71-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -126,5 +126,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 7 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| [![C++](assets/C++.png)](src/july.md) | `string` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=3)
 8 | [Paint House III](https://leetcode.com/problems/paint-house-iii/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2J4tkJ7v3r4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 9 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `queue` `sliding window` `heap(priority queue)` `monotonic queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=us1cSqg6rFE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-10 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+10 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=nnQsx0VyToM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 11 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
