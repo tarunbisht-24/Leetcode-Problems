@@ -7,13 +7,13 @@ In this LeetCode Challenge, we challenge participants with a problem from our ca
 <br>
 
 📌 When is July's LeetCoding Challenge?
-Start: June 1st, 12:00 AM in Pacific Time (UTC-7)
+Start: July 1st, 12:00 AM in Pacific Time (UTC-7)
 
-End: June 30th, 23:59 PM in Pacific Time (UTC-7)
+End: July 31th, 23:59 PM in Pacific Time (UTC-7)
 
-🚩 How do I join May's LeetCoding Challenge?
+🚩 How do I join July's LeetCoding Challenge?
 
-To join, just start solving problems in June's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on June 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
+To join, just start solving problems in July's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on June 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
 
 <br>
 
@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-71-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-71-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-72-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-72-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -127,4 +127,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 8 | [Paint House III](https://leetcode.com/problems/paint-house-iii/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=2J4tkJ7v3r4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 9 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `queue` `sliding window` `heap(priority queue)` `monotonic queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=us1cSqg6rFE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 10 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=nnQsx0VyToM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+11 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [![C++](assets/C++.png)](src/july.md) | `trees` `depth-first search` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=WmjXEfF6Iy4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 11 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
