@@ -28,12 +28,12 @@ Completing all 31 daily challenges will be eligible for 2X the reward, plus a ch
 Lucky Draw: Those who complete all 31 daily challenges will be automatically entered into a Lucky Draw, where LeetCode staff will randomly select 3 lucky participants to each receive one LeetCode Cap on top of their rewards!
 
 
-🤩 What are you waiting for? Mark your calendar now to start the June LeetCoding Challenge on June 1st, 2022!
+🤩 What are you waiting for? Mark your calendar now to start the June LeetCoding Challenge on July 1st, 2022!
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-72-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-72-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-73-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-73-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -128,4 +128,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 9 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `queue` `sliding window` `heap(priority queue)` `monotonic queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=us1cSqg6rFE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 10 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=nnQsx0VyToM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 11 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [![C++](assets/C++.png)](src/july.md) | `trees` `depth-first search` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=WmjXEfF6Iy4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-11 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+12 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `backtracking` `bit manipulation` `bitmask` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=KOfOnmVxA6E&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+13 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
