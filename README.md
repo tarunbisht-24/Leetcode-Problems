@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-73-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-73-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-74-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-74-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -129,4 +129,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 10 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=nnQsx0VyToM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 11 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [![C++](assets/C++.png)](src/july.md) | `trees` `depth-first search` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=WmjXEfF6Iy4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 12 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` `backtracking` `bit manipulation` `bitmask` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=KOfOnmVxA6E&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-13 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+13 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [![C++](assets/C++.png)](src/july.md) | `tree` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=8Z-jmRWY_CU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+14 | []()| [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
