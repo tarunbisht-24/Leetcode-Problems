@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-76-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-76-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-78-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-78-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -132,4 +132,6 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 13 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [![C++](assets/C++.png)](src/july.md) | `tree` `breadth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=8Z-jmRWY_CU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 14 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `divide and conquer` `tree` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ovEPAKJqC5I&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 15 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [![C++](assets/C++.png)](src/july.md) | `array` `depth-first search` `breadth-first search` `union find` `matrix` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=m3T0m6knSfY&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-16 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+16 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [![C++](assets/C++.png)](src/july.md) | `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+17 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [![C++](assets/C++.png)](src/july.md) | `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+18 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
