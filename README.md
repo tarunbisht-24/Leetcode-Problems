@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-82-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-82-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-83-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-83-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -138,4 +138,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 19 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [![C++](assets/C++.png)](src/july.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=fbJWCzZNYtU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 20 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [![C++](assets/C++.png)](src/july.md) | `hash table` `string` `trie` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=q1Tn4ede2iQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 21 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [![C++](assets/C++.png)](src/july.md) | `Linked List` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=dT1kYsR4SZs&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-22 | []() | [![C++](assets/C++.png)](src/july.md) | `Linked List` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+22 | [Partition List](https://leetcode.com/problems/partition-list/) | [![C++](assets/C++.png)](src/july.md) | `Linked List` `Two Pointers` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9J8gtTKrIWM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+23 | []() | [![C++](assets/C++.png)](src/july.md) | `Linked List` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ilibcYNpCE8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
