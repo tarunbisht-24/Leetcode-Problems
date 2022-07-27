@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-87-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-87-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-88-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-88-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -143,4 +143,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 24 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` `divide and conquer` `matrix` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jEvHg5uQhq0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 25 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=MA5dlHDA9k8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 26 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [![C++](assets/C++.png)](src/july.md) | `tree` `depth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ZMVQUtSSoeI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-27 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jEvHg5uQhq0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+27 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [![C++](assets/C++.png)](src/july.md) | `linked list` `stack` `tree` `depth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=3Q1CElv-qQ0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+28 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jEvHg5uQhq0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
