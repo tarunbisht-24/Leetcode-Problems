@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-90-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-90-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-91-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-91-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -146,4 +146,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 27 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [![C++](assets/C++.png)](src/july.md) | `linked list` `stack` `tree` `depth-first search` `binary tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=3Q1CElv-qQ0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [![C++](assets/C++.png)](src/july.md) | `hash table` `string` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ye1LRi3l1Hw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 29 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=gHa5OknWmhc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-30 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` `linked list` `depth-first search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jEvHg5uQhq0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+30 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=sCoTgMCzBoI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+31 | []() | [![C++](assets/C++.png)](src/july.md) | `array` `binary search` `linked list` `depth-first search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jEvHg5uQhq0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
