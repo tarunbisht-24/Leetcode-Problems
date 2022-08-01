@@ -154,4 +154,4 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=9)
+1 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [![C++](assets/C++.png)](src/july.md) | `math` `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5JVDxAlY508&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
