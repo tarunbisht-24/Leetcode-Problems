@@ -150,8 +150,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 31 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [![C++](assets/C++.png)](src/july.md) | `array` `design` `binary indexed tree` `segment tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bHyGSnDNE9M&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 
 <br>
-<h1 align = "center">July-2022</h1>
+<h1 align = "center">August-2022</h1>
 
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
-1 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [![C++](assets/C++.png)](src/july.md) | `math` `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5JVDxAlY508&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+1 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [![C++](assets/C++.png)](src/august.md) | `math` `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5JVDxAlY508&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
