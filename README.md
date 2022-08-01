@@ -7,13 +7,13 @@ In this LeetCode Challenge, we challenge participants with a problem from our ca
 <br>
 
 📌 When is July's LeetCoding Challenge?
-Start: July 1st, 12:00 AM in Pacific Time (UTC-7)
+Start: August 1st, 12:00 AM in Pacific Time (UTC-7)
 
-End: July 31th, 23:59 PM in Pacific Time (UTC-7)
+End: August 31th, 23:59 PM in Pacific Time (UTC-7)
 
-🚩 How do I join July's LeetCoding Challenge?
+🚩 How do I join August's LeetCoding Challenge?
 
-To join, just start solving problems in July's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on June 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
+To join, just start solving problems in August's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on June 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
 
 <br>
 
@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-92-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-92-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-93-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-93-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
