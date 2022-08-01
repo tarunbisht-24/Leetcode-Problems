@@ -148,3 +148,10 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 29 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=gHa5OknWmhc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 30 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [![C++](assets/C++.png)](src/july.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=sCoTgMCzBoI&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 31 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [![C++](assets/C++.png)](src/july.md) | `array` `design` `binary indexed tree` `segment tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bHyGSnDNE9M&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+
+<br>
+<h1 align = "center">July-2022</h1>
+
+| # | Title | Solution | Tags |  Youtube  |
+|---| ----- | -------- | ---- | --------- |
+1 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [![C++](assets/C++.png)](src/july.md) | `array` `greedy` `sorting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=bVjVko_bnc0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=9)
