@@ -155,3 +155,4 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 | # | Title | Solution | Tags |  Youtube  |
 |---| ----- | -------- | ---- | --------- |
 1 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [![C++](assets/C++.png)](src/august.md) | `math` `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5JVDxAlY508&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+2 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [![C++](assets/C++.png)](src/august.md) | `array` `binary search` `sorting` `heap(priority queue)` `matrix` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
