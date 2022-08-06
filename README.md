@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-97-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-97-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-98-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-98-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -159,4 +159,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 3 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [![C++](assets/C++.png)](src/august.md) | `binary search`  `design` `segment tree` `ordered set` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=7_4BbPy1-FE&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 4 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [![C++](assets/C++.png)](src/august.md) | `math` `geometry` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 5 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [![C++](assets/C++.png)](src/august.md) | `array` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-6 | []() | [![C++](assets/C++.png)](src/august.md) | `binary search`  `design` `segment tree` `ordered set` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+6 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [![C++](assets/C++.png)](src/august.md) | `math`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ATnnpTmHAGc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+7 | []() | [![C++](assets/C++.png)](src/august.md) | `binary search`  `design` `segment tree` `ordered set` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
