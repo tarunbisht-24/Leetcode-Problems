@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-100-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-100-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-101-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-101-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -162,4 +162,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 6 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [![C++](assets/C++.png)](src/august.md) | `math`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ATnnpTmHAGc&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 7 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [![C++](assets/C++.png)](src/august.md) | `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=e5xsy3aMiog&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 8 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [![C++](assets/C++.png)](src/august.md) | `array` `binary search` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=hdq3cU6tzoA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-8 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+9 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9XXzcTf5ljw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+10 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
