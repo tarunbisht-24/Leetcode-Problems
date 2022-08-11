@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-102-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-102-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-103-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-103-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -164,4 +164,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 8 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [![C++](assets/C++.png)](src/august.md) | `array` `binary search` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=hdq3cU6tzoA&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 9 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `dynamic programming` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9XXzcTf5ljw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 10 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [![C++](assets/C++.png)](src/august.md) | `array`  `divide and conquer` `tree` `binary search tree` `binary search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9yvGJBRX1_s&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
-11 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+11 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [![C++](assets/C++.png)](src/august.md) | `tree`  `depth-first search` `binary search tree` `bianry tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=Iep4W5JZp9g&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+12 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
