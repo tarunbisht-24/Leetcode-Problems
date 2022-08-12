@@ -6,14 +6,14 @@ In this LeetCode Challenge, we challenge participants with a problem from our ca
 
 <br>
 
-📌 When is July's LeetCoding Challenge?
+📌 When is August's LeetCoding Challenge?
 Start: August 1st, 12:00 AM in Pacific Time (UTC-7)
 
 End: August 31th, 23:59 PM in Pacific Time (UTC-7)
 
 🚩 How do I join August's LeetCoding Challenge?
 
-To join, just start solving problems in August's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on June 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
+To join, just start solving problems in August's LeetCoding Challenge Explore Card. No registration is required. The first problem will appear in the Explore card on August's 1st, 12 a.m. Pacific Time and you will have 24 hours to solve that challenge. A problem is added in the Explore card each day. For more details such as the Challenge Rules, please refer to the Explore card.
 
 <br>
 
