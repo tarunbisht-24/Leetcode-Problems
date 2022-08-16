@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-107-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-107-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-108-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-108-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -168,5 +168,6 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 12 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [![C++](assets/C++.png)](src/august.md) | `tree`  `depth-first search` `binary search tree` `bianry tree` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=PUJ8IxyHoS0&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 13 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `sliding window` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=yuD3OGrW740&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 14 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `backtracking` `breadth-first search` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=5qg68vJJ3WU&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-16 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `math` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ONUvoQqJO9U&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+15 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `math` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ONUvoQqJO9U&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+16 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `queue` `counting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9KdtFuil2vw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 17 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
