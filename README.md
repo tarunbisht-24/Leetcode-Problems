@@ -28,12 +28,12 @@ Completing all 31 daily challenges will be eligible for 2X the reward, plus a ch
 Lucky Draw: Those who complete all 31 daily challenges will be automatically entered into a Lucky Draw, where LeetCode staff will randomly select 3 lucky participants to each receive one LeetCode Cap on top of their rewards!
 
 
-🤩 What are you waiting for? Mark your calendar now to start the June LeetCoding Challenge on July 1st, 2022!
+🤩 What are you waiting for? Mark your calendar now to start the August LeetCoding Challenge on August 1st, 2022!
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-109-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-109-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-110-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-110-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -171,4 +171,5 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 15 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `math` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=ONUvoQqJO9U&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 16 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `queue` `counting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9KdtFuil2vw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 17 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=kaiqHJtzYK4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-18 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+18 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `greedy` `sorting` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9UCyVNp50EQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+19 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
