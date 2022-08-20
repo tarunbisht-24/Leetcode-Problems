@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-111-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-111-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-112-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-112-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -172,6 +172,6 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 16 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `queue` `counting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9KdtFuil2vw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 17 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `string` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=kaiqHJtzYK4&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 18 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `greedy` `sorting` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=9UCyVNp50EQ&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-19 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-20 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+19 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=6ZA9EpCEtaM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
+20 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=-ExDlrwNC6A&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 21 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
