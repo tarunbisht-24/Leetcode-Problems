@@ -32,8 +32,8 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-113-1f425f.svg)
-![problems-solved-C++](https://img.shields.io/badge/C++-113-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-118-1f425f.svg)
+![problems-solved-C++](https://img.shields.io/badge/C++-118-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/tarunbisht-24/Codechef-Contests)
 
@@ -175,7 +175,9 @@ Lucky Draw: Those who complete all 31 daily challenges will be automatically ent
 19 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [![C++](assets/C++.png)](src/august.md) | `array` `hash table` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=6ZA9EpCEtaM&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=2)
 20 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `greedy` `heap(priority queue)` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=-ExDlrwNC6A&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 21 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [![C++](assets/C++.png)](src/august.md) | `string` `stack` `greedy` `queue` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=jb5XYtudsPw&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-22 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-23 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
-24 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+22 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [![C++](assets/C++.png)](src/august.md) | `math` `bit manipulation` `recursion` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+23 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [![C++](assets/C++.png)](src/august.md) | `linked list` `two pointers` `stack` `recursion` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+24 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [![C++](assets/C++.png)](src/august.md) | `math` `recursion` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
 25 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [![C++](assets/C++.png)](src/august.md) | `hash table` `string` `counting` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=m6x-hwRFKdY&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+26 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [![C++](assets/C++.png)](src/august.md) | `math` `string` `counting` `enumeration` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
+27 | []() | [![C++](assets/C++.png)](src/august.md) | `array`  `dynamic programming` `combinatorics` | [![python-yt](assets/python-yt.png)](https://www.youtube.com/watch?v=HlStm49V9X8&list=PLP446CXRka0XhT9eav5XUSHbvlnASnzs1&index=1)
